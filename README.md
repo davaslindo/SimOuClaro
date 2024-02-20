@@ -1,7 +1,7 @@
 
 # Inegavel
 
-Um projeto divertido, basicamente uma brincadeira onde o botão foje do mouse, torando impossivel negar a proposta.
+Um projeto divertido, basicamente uma brincadeira onde o botão foje do mouse, tornando impossivel negar a proposta.
 
 Um projeto desenvolvido em html, css e Js.
 ## Aprendizados
