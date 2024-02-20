@@ -11,5 +11,5 @@ Fazendo este projeto aprendi um pouco sobre JS, Event Listeners e etc.
 
 ## Usado por
 
-Esse projeto é usado de forma descontraida, para tirar uma risada por amigos.
+Esse projeto é usado de forma descontraida, para tirar uma risada dos amigos.
 
