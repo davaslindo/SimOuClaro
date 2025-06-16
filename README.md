@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Davas</h1>
-<h3 align="center">Um Dev quase Junior que ama programação.</h3>
+<h1 align="center">Hi 👋, I'm Davi Cavalcante</h1>
+<h3 align="center">I am a Dev Jr</h3>
 
 <h3 align="center">  </h3>
 
-- 🔭 I’m currently working on [Inegavel](https://github.com/davaslindo/SimOuClaro.git)
+- 🔭 I’m currently working on )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
